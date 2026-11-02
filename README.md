@@ -1,2 +1,2 @@
 # GitTest
-Name = Pavan Badiger
+Pavan Badiger
